@@ -1,5 +1,5 @@
 # 💾 tools-for-data-recovery
-All programs for Data Recovery, also listed on [CyberSources](https://github.com/bst04/CyberSources) project. If you know more data recovery tools please make an issue.
+This is a curated list with all tools for Data Recovery, also listed on [CyberSources](https://github.com/bst04/CyberSources) project. If you know more data recovery tools please make an issue.
  
 ### **Sponsored by**
 [![image](https://github.com/user-attachments/assets/d80695ca-816a-4c54-9644-4ec17c20e930)](https://cybersources.site/)
